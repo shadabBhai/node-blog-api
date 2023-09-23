@@ -27,6 +27,6 @@ dbConnect();
 
 
 app.get("/",(req,res)=>{
-    res.send(`<h1> This  is home page </h1>`);
+    res.send(`<h1>BLOG POST API</h1>`);
 })
 
